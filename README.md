@@ -42,7 +42,7 @@ IT was responsible for securing the account immediately while preserving the acc
 
 ### Before Offboarding
 
-![Before](.png)
+![Before](01.png)
 
 ### Account Disabled
 
