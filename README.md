@@ -46,15 +46,15 @@ IT was responsible for securing the account immediately while preserving the acc
 
 ### Account Disabled
 
-![Disabled](.png)
+![Disabled](Screenshots/02-Account-Disabled.png)
 
 ### Group Membership Review
 
-![Groups](.png)
+![Groups](screenshots/06.png)
 
 ### License Removed
 
-![License Removed](.png)
+![License Removed](screenshots/07.png)
 
 ## Ticket Summary
 
