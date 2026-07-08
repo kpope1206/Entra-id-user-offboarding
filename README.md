@@ -46,7 +46,7 @@ IT was responsible for securing the account immediately while preserving the acc
 
 ### Account Disabled
 
-![Disabled](Screenshots/02.png)
+![Disabled](screenshots/02.png)
 
 ### Group Membership Review
 
